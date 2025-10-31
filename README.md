@@ -26,14 +26,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetansh7722&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetansh7722&theme=radical" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hetansh7722&show_icons=true&theme=radical" height="165" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetansh7722&layout=compact&theme=radical" height="165" alt="Top Languages"/>
 </p>
 
 ---
-
 
 ### 🌐 Connect With Me
 <p align="center">
