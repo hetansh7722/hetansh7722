@@ -24,18 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetansh7722&show_icons=true&theme=radical" height="165" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetansh7722&layout=compact&theme=radical" height="165" alt="Top Languages"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
